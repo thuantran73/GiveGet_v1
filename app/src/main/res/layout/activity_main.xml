@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@mipmap/Profile" />
+        app:srcCompat="@mipmap/gg_profile" />
 
     <ImageButton
         android:id="@+id/btn_feed"
@@ -39,6 +39,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.044"
         app:layout_constraintStart_toStartOf="@+id/toolbar"
-        app:srcCompat="@mipmap/Feed" />
+        app:srcCompat="@mipmap/gg_feed" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
